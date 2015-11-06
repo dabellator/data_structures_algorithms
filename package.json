@@ -1,0 +1,25 @@
+{
+  "name": "data_structures_algorithms",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms",
+  "main": "functions.js",
+  "dependencies": {
+    "chai": "^3.4.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabellator/data_structures_algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabellator/data_structures_algorithms/issues"
+  },
+  "homepage": "https://github.com/dabellator/data_structures_algorithms#readme"
+}
